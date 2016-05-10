@@ -6,3 +6,6 @@
 
 DEBUG = False
 GENID_DATABASE = '/var/trafficserver/genid.kch'
+ALLOW_IP = [
+    '127.0.0.1',
+]
