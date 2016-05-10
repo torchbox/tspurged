@@ -5,4 +5,4 @@
 #
 
 DEBUG = False
-NGX_CACHE_DIR='/var/lib/nginx/cache'
+GENID_DATABASE = '/var/trafficserver/genid.kch'
